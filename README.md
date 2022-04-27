@@ -1,0 +1,2 @@
+# SerikBLDWebService
+Web Servis Uygulaması
